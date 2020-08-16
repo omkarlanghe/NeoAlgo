@@ -1,20 +1,27 @@
-Please read [how to contribute](CONTRIBUTING.md) first!
-# Description
-Submission description here
+<!--
+Thank you for sending the PR! We appreciate you spending the time to work on these changes.
 
-Checklist
-* [ ] I've checked the issue list __BEFORE__ deciding what to submit
-* [ ] I've read the contribution guidelines
-* [ ] I've edited the README.md link to my code
+Help us understand your motivation by explaining why you decided to make this change.
+You can learn more about contributing to NeoAlgo here: https://github.com/TesseractCoding/NeoAlgo/blob/master/CONTRIBUTING.md
 
-## Don't forget to visit our [website](http://www.tesseractcoding.tech)!
+Happy Contributing!
 
-Feel free to add this badge after your submission is accepted!
+-->
 
-<img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
+### Have you read the [Contributing Guidelines on Pull Requests](https://github.com/TesseractCoding/NeoAlgo/blob/master/CONTRIBUTING.md#pull-requests)?
 
-```
-<a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
-</a>
-```
+(Write your answer here.)
+
+### Description
+
+(Write your answer here.)
+
+### Checklist
+
+- [ ] I've read the contribution guidelines.
+- [ ] I've checked the issue list before deciding what to submit.
+- [ ] I've edited the `README.md` and link to my code.
+
+## Related Issues or Pull Requests
+
+(Write your answer here.)
